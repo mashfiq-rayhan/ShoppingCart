@@ -2,6 +2,10 @@
 
 A small demo shop built with React that demonstrates Context API usage to manage a shopping cart, component composition, and an imperative modal pattern.
 
+![Home](./public/home.png)
+![Cart](./public/cart1.png)
+![Cart](./public/cart2.png)
+
 #### Features
 - 🛒 Add / remove items in a cart via Context
 - ➕ Increment / ➖ Decrement item quantities
